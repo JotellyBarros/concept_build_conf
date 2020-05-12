@@ -1,0 +1,9 @@
+package_sets:
+  # - github: Brazilian-Institute-of-Robotics/bir.ros-package_set
+  #   private: true
+  - github: JotellyBarros/concept_demo_package_set.git
+    private: true
+
+layout:
+#  - desktop_full
+ - video_stream_opencv
