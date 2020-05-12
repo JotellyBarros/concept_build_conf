@@ -5,5 +5,5 @@ package_sets:
     private: true
 
 layout:
-#  - desktop_full
- - video_stream_opencv
+  #- desktop_full
+  - video_stream_opencv
