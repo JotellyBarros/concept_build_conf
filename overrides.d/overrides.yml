@@ -1,6 +1,6 @@
 overrides:
   - pkg_set:github:/JotellyBarros/concept_demo_package_set.git:
-    branch: master
+    branch: development
 
   - video_stream_opencv:
     github: JotellyBarros/video_stream_opencv
