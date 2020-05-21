@@ -11,3 +11,4 @@ layout:
   - video_stream_opencv
   - video_stream_opencv_custom
   - orb_slam_ros
+  - usb_cam
